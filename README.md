@@ -1,2 +1,2 @@
 # Web3PracticumHomework2
-TodoList_Homework2
+www.patika.dev TodoList_Homework2
